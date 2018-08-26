@@ -105,3 +105,4 @@ public class ColorMixer extends JFrame {
         }          
     }  
 }
+//Color Mixer function file
