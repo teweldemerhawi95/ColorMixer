@@ -5,7 +5,7 @@ import javax.swing.event.*;
 import java.awt.event.*;
 /**
  *
- * @author Merhawi
+ * @author Merhawi Tesfay
  */
 public class ColorMixer extends JFrame {
 
